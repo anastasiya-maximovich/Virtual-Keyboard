@@ -164,7 +164,7 @@ function createPage() {
     document.body.insertAdjacentHTML('beforeend',
     `<textarea name="" id="text-box" placeholder="Input text please..."></textarea>
                                   <div class="keybord"></div>
-                                  <div class="info">Переключение языка : Shift + Alt<br>на физичезкой клавиатуре</div>`);
+                                  <div class="info">Переключение языка : Shift + Alt<br>на физичезкой клавиатуре<br>Shift-ом переход на специальные символы</div>`);
 }
 
 function createButtonsCollection() {
